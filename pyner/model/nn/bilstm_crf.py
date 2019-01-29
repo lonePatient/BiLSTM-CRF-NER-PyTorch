@@ -1,8 +1,8 @@
 #encoding:utf-8
 import torch.nn as nn
-from pyner.model.layers.embed_layer import Embed_Layer
-from pyner.model.layers.crf import CRF
-from pyner.model.layers.bilstm import BILSTM
+from ..layers.embed_layer import Embed_Layer
+from ..layers.crf import CRF
+from ..layers.bilstm import BILSTM
 
 class Model(nn.Module):
     def __init__(self,model_config,
