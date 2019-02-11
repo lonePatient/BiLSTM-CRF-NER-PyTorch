@@ -45,7 +45,7 @@ At the root of the project, you will see:
 
 ## How to use the code
 
-1. Download the `source_BIO_2014_cropus.txt` from [comming](url) and place it into the `/pyner/dataset/raW` directory.
+1. Download the `source_BIO_2014_cropus.txt` from [coming](url) and place it into the `/pyner/dataset/raW` directory.
 2. Modify configuration information in `pyner/config/basic_config.py`(the path of data,...).
 3. run `python train_bilstm_crf.py` ．
 4. run `python test_predict.py` ．
@@ -53,8 +53,8 @@ At the root of the project, you will see:
 
 ## Result
 
-comming soon....
+coming soon....
 
 ### training Figure
 
-comming soon
+coming soon
