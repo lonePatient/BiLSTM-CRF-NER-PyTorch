@@ -53,8 +53,17 @@ At the root of the project, you will see:
 
 ## Result
 
-coming soon....
+```text
+----------- Train entity score:
+Type: LOC - precision: 0.9043 - recall: 0.9089 - f1: 0.9066
+Type: PER - precision: 0.8925 - recall: 0.9215 - f1: 0.9068
+Type: ORG - precision: 0.8279 - recall: 0.9016 - f1: 0.8632
+Type: T - precision: 0.9408 - recall: 0.9462 - f1: 0.9435
+----------- valid entity score:
+Type: T - precision: 0.9579 - recall: 0.9558 - f1: 0.9568
+Type: PER - precision: 0.9058 - recall: 0.9205 - f1: 0.9131
+```
 
 ### training Figure
 
-coming soon
+![]( https://lonepatient-1257945978.cos.ap-chengdu.myqcloud.com/20190225223107.png)
